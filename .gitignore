@@ -1,7 +1,3 @@
-mongodb_create.js
-mongodb_delete.js
-mongodb_read.js
-mongodb_update.js
 #From https://github.com/github/gitignore/blob/main/Node.gitignore
 
 # Logs
